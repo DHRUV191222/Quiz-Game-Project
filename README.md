@@ -1,1 +1,2 @@
-# Quiz-Game-Project
+# Quiz-Game-Project  
+Quiz game by using HTML,CSS & JAVASCRIPT...
